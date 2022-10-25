@@ -1,4 +1,4 @@
-# 🤺 Exercícios Básicos de HTML e CSS do curso DevQuest! ⚔
+# 🤺 Exercícios Básicos de HTML e CSS DevQuest! ⚔
 
 ###  Nesses exercícios usei meus conhecimentos que aprendi nos módulos de HTML e CSS no Módulo básico para resolvê-los da melhor forma!
 
